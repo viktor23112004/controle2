@@ -5,3 +5,38 @@
     align-items: center;
     margin-left: 20px;
 }
+
+.icons2 img {
+    width: 35px;
+}
+
+.icons2 .img:first-child {
+    border-bottom: 1px solid black;
+}
+
+.icon1 {
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.icon2 {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.icon3 {
+    border-bottom: 1px solid black;
+}
+
+.icon4 {
+    border-right: 1px solid black;
+}
+
+.icon5 {
+    border-right: 1px solid black;
+}
+
+.icons3 img {
+    width: 35px;
+    margin-left: 20px;
+}
